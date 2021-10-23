@@ -1,3 +1,3 @@
-module github.com/ekokurniadi/indodate/v1
+module github.com/ekokurniadi/indodate
 
 go 1.13
