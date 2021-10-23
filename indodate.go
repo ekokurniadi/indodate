@@ -1,4 +1,4 @@
-package indodate
+package indotanggal
 
 import (
 	"strings"
