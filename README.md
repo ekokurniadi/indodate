@@ -1,7 +1,7 @@
 # 👋 Welcome
 
 # INDODATE
-indodate is a package for golang programming language for date convertion on indonesian format
+indodate is a package for golang programming language for date conversion on indonesian format
 
 ### How to install
 ```sh
@@ -31,6 +31,13 @@ func main() {
 	fmt.Println(indodate.DateWithMin(time.Now()))   // output : 23-10-2021
 }
 
+```
+### Run example project and you will see the output
+```sh
+$ go run main.go
+23 Oktober 2021
+23/10/2021
+23-10-2021
 ```
 
 ### Have Fun :D
