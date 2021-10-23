@@ -3,7 +3,7 @@
 # INDODATE
 indodate is a package for golang programming language for date convertion on indonesian format
 
-### HOW TO INSTALL
+### How to install
 ```sh
 go get github.com/ekokurniadi/indodate
 ```
