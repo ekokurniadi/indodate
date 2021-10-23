@@ -1,3 +1,5 @@
+# 👋 Welcome
+
 # INDODATE
 indodate is a package for golang programming language for date convertion on indonesian format
 
