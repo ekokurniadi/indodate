@@ -5,7 +5,7 @@ indodate is a package for golang programming language for date conversion on ind
 
 ### How to install
 ```sh
-go get github.com/ekokurniadi/indodate
+ go get github.com/ekokurniadi/indodate
 ```
 
 ### Then import the indodate package
@@ -34,7 +34,7 @@ func main() {
 ```
 ### Run example project and you will see the output
 ```sh
-$ go run main.go
+ go run main.go
 23 Oktober 2021
 23/10/2021
 23-10-2021
